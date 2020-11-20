@@ -2,3 +2,5 @@ green
 blue
 orange
 purple
+black
+white
